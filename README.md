@@ -50,6 +50,10 @@ A 5-service containerised platform for running tenders end to end: role-based ac
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suryatej73&repo=online_tender_management&theme=nord&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&border_color=7dd3fc&bg_color=0d1117&hide_border=false" alt="tenderX" />
 </a>
 
+![Stars](https://img.shields.io/github/stars/Suryatej73/online_tender_management?style=flat-square&color=7dd3fc&labelColor=0d1117)
+![Top language](https://img.shields.io/github/languages/top/Suryatej73/online_tender_management?style=flat-square&color=7dd3fc&labelColor=0d1117)
+![Last commit](https://img.shields.io/github/last-commit/Suryatej73/online_tender_management?style=flat-square&color=7dd3fc&labelColor=0d1117)
+
 | Layer | Technology |
 | :--- | :--- |
 | Frontend | React 18, Vite |
@@ -73,6 +77,10 @@ A Django-backed commerce/logistics application built around a normalised relatio
 <a href="https://github.com/Suryatej73/seasonship">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suryatej73&repo=seasonship&theme=nord&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&border_color=7dd3fc&bg_color=0d1117&hide_border=false" alt="seasonship" />
 </a>
+
+![Stars](https://img.shields.io/github/stars/Suryatej73/seasonship?style=flat-square&color=7dd3fc&labelColor=0d1117)
+![Top language](https://img.shields.io/github/languages/top/Suryatej73/seasonship?style=flat-square&color=7dd3fc&labelColor=0d1117)
+![Last commit](https://img.shields.io/github/last-commit/Suryatej73/seasonship?style=flat-square&color=7dd3fc&labelColor=0d1117)
 
 | Layer | Technology |
 | :--- | :--- |
@@ -124,6 +132,9 @@ A Django-backed commerce/logistics application built around a normalised relatio
   aggressively rate-limited. If a card renders as an error box, that's the shared
   instance being throttled — not a broken URL. Self-hosting github-readme-stats on
   Vercel and swapping the hostname below fixes it permanently.
+
+  The github-profile-trophy row was deliberately left out: its public Vercel
+  deployment returns HTTP 402 (quota exceeded), so it renders as a dead image.
 -->
 
 <div align="center">
@@ -134,10 +145,6 @@ A Django-backed commerce/logistics application built around a normalised relatio
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Suryatej73&background=0d1117&border=7dd3fc&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakNum=c9d1d9&currStreakLabel=7dd3fc&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Suryatej73&theme=nord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
 
 <br/><br/>
 
